@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VidhyP
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning web application programming, advanced java object-oriented programming
-- 📫 How to reach me - vidhy@ualberta.ca
+- 👀 I am proficient in Java, Javascript, HTML, CSS, SQL and ReactJS
+- 🌱 I’m currently looking for a full time job as a developer
+- 📫 How to reach me - vidhypatel@gmail.com
 
 <!---
 VidhyP/VidhyP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
